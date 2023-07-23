@@ -5,14 +5,14 @@
     </i>
     <div class="details">
       <h3>
-  3deeeeeeeeeeeee
+  
         <slot name="heading"></slot>
       </h3>
       <slot></slot>
     </div>
   </div>
 </template>
-
+3deeeeeeeeeeeee
 <style scoped>
 .item {
   margin-top: 2rem;
